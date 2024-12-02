@@ -1,0 +1,14 @@
+{
+    "config": {
+        "step": {
+            "user": {
+                "title": "RF 网关设置",
+                "description": "设置你的 RF 网关",
+                "data": {
+                    "name": "名称",
+                    "mqtt_topic": "MQTT 主题前缀"
+                }
+            }
+        }
+    }
+} 

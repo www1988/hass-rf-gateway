@@ -1,0 +1,14 @@
+{
+    "config": {
+        "step": {
+            "user": {
+                "title": "RF Gateway Setup",
+                "description": "Set up your RF Gateway",
+                "data": {
+                    "name": "Name",
+                    "mqtt_topic": "MQTT Topic Base"
+                }
+            }
+        }
+    }
+} 
